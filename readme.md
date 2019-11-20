@@ -11,7 +11,7 @@ The dataset is downloaded from LendingClub website (https://www.lendingclub.com/
 
 Visualizations
 ===
-At EDA stage, I generate several graphs and tables to better understand the dataset. Sample graph could be seen under 'image' folder
+At EDA stage, I generate several graphs and tables to better understand the dataset. Sample graphs could be seen inside 'image' folder.
 
 Machine Learning:
 ===
